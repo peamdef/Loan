@@ -12,6 +12,6 @@ public class LoanInfo {
     private  Long Id;
     private  String status;
     private  String accountPayable;
-    private String accountReceviable;
+    private String accountReceivable;
     private double principalAmount;
 }
